@@ -35,7 +35,7 @@ Sales revenue has continued to rise year-on-year, with significant increases in 
 ## Insight Deep Dive
 ### Sales Trends
 - Sales rose slightly in 2017, then increased significantly over the following two years, peaking in December 2019 with monthly revenue of $2,477,295, before falling sharply in April and plateauing until the end of 2020.
-- 
+- Following a sharp decline in April 2020, revenue rose briefly in May following seasonal trends, but did not reach the levels seen before the slump; after that, revenue continued to fall consecutively until it finally rose again in December. This was a consequency of COVID-19 being declared a global pandemic in March 2020.
 
 <img width="1313" height="435" alt="Screenshot (1039) sales trend" src="https://github.com/user-attachments/assets/13a4eebd-b5d3-4cad-b8d8-5d237543be81" />
 
