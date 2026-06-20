@@ -47,7 +47,7 @@ Sales revenue has continued to rise year-on-year, with significant increases in 
 - Top revenue-generating products are **computers and home appliances**, they **contribute about 50% of total revenue**. And the smallest one is **game and toys at just around 1% to total revenue**.
 - **Computers and home appliances are the top performing products in 2016 and 2017**, then **"computers" and other products such as "cameras and camcorders" and "cell phones" increased significantly in 2018 and 2019**, whilst **home appliances remained stable at levels similar to the previous year**.
 - **All products exhibited significant decline in 2020**, but because **"computers" is the main driver of the sales**, so it has huge impact for this decline.
-- US Stores and Online contribute the most to sales. 
+- **US Stores and Online contribute the most to sales**, around half of total revenue comes from them. But **they also plummented significantly in 2020**.
 - 
 
 ## Recommendations
